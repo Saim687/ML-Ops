@@ -5,7 +5,7 @@
 # WORKDIR /app
 
 # # Copy all files from your current directory to the container
-# COPY . /app
+# COPY . /app 
 
 # # Install the necessary dependencies for training and the API
 # RUN pip install --no-cache-dir pandas fastapi uvicorn scikit-learn

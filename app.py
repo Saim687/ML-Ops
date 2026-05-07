@@ -9,7 +9,7 @@
 #
 # =========================================================
   
-from fastapi import FastAPI
+from fastapi import FastAPI 
 import joblib
 import numpy as np
 import json

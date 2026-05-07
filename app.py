@@ -4,7 +4,7 @@
 # PURPOSE:
 # FastAPI application exposing:
 #
-# 1. /metrics
+# 1. /metrics 
 # 2. /predict
 #
 # =========================================================

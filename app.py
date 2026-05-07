@@ -8,7 +8,7 @@
 # 2. /predict
 #
 # =========================================================
-
+ 
 from fastapi import FastAPI
 import joblib
 import numpy as np
